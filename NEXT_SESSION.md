@@ -33,7 +33,7 @@ None. The repo has no secrets, no `.env`, no credentials. `apply.sh` only writes
 ## What's done (this session)
 
 - `1365396` — Initial commit: macOS preferences automation
-- `<sha-pending>` — Checkpoint: NEXT_SESSION.md handoff doc
+- `cc5fc84` — Checkpoint: add NEXT_SESSION.md handoff doc
 
 ## What's pending (in priority order)
 
@@ -50,7 +50,7 @@ Each one is a 1–2 line `defaults` command that gets appended to `apply.sh` and
 
 ## Prompt to paste into next Claude Code session
 
-```
+```text
 I'm resuming work on macos-preferences. Read NEXT_SESSION.md at the repo root for full context. The auto-dim fix is shipped and working. Next action: append a new macOS tweak to apply.sh — see the pending list for ideas, or I'll tell you which one I want.
 ```
 
